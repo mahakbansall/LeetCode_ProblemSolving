@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Sliding Window
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
