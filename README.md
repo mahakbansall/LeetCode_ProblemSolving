@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0027-remove-element) |
 ## Trie
 |  |
 | ------- |
