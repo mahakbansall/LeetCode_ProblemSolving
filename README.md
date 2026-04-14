@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
