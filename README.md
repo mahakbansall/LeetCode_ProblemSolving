@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
+| [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Trie
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
