@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
 | [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
+| [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Trie
 |  |
@@ -99,8 +100,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
+| [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
