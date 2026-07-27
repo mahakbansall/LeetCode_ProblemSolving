@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
+| [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Trie
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
