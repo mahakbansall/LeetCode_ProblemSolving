@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
+| [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0565-array-nesting) |
 | [0896-monotonic-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0896-monotonic-array) |
+| [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Trie
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0565-array-nesting) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
