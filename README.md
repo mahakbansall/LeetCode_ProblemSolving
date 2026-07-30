@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1929-concatenation-of-array) |
 ## Greedy
