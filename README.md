@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
