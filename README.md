@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1929-concatenation-of-array) |
 ## Trie
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
+| [1480-running-sum-of-1d-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
