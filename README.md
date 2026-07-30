@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
+| [2235-add-two-integers](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
