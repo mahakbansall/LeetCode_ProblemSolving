@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
 | ------- |
