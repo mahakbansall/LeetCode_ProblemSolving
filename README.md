@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
