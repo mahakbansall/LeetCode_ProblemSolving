@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0330-patching-array) |
 | [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
