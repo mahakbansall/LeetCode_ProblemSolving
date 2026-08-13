@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0565-array-nesting) |
+| [0704-binary-search](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0932-beautiful-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/mahakbansall/LeetCode_ProblemSolving/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
